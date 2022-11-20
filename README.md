@@ -7,3 +7,7 @@
  
 
 [![Özgür's github stats](https://github-readme-stats.vercel.app/api?username=savas11)](https://github.com/savas11/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=savas11)
+
+![](https://hit.yhype.me/github/profile?user_id=51775407)
